@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app version="3.0">
+	<servlet>
+		<servlet-name>helloName</servlet-name>
+		<servlet-class>HelloName</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>helloName</servlet-name>
+		<url-pattern>/helloname</url-pattern>
+	</servlet-mapping>
+</web-app>
