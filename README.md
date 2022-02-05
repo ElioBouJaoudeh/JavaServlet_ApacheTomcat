@@ -23,7 +23,7 @@ Implementation and Deployment of a Java Servlet on Apache Tomcat
 
 
 
-4) Create the *HelloWorld* folder inside of the *webapps* folder:
+4) Create the *helloName* folder inside of the *webapps* folder:
 
 ![helloName folder](https://user-images.githubusercontent.com/88712232/152638225-1f0763c1-2cd5-4785-91f0-0a70f4ee4fca.png)
 
