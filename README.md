@@ -62,7 +62,7 @@ Set up the *web.xml* file:
 
 
 
-9) Compiling a Servlet with the required JAR file. In Apache Tomcat server **servlet-api.jar** file is required to compile the servlet class:
+9) Compile the servlet with the required JAR file. In Apache Tomcat server **servlet-api.jar** file is required to compile the servlet class:
 
 ![compiling](https://user-images.githubusercontent.com/88712232/152638620-f579472d-080f-448d-8cb8-45eb951e90a7.png)
 
